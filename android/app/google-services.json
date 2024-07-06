@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "973133608527",
+    "firebase_url": "https://rafael-nuansa.firebaseio.com",
+    "project_id": "rafael-nuansa",
+    "storage_bucket": "rafael-nuansa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973133608527:android:708d9543b5a9af65d95c3a",
+        "android_client_info": {
+          "package_name": "com.example.absensi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973133608527-981vbv34n5ec8mjg3n2nnekei2puqnoj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlRoy7wNJ42yZwmbeefTxrAAl5PZdghic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973133608527-981vbv34n5ec8mjg3n2nnekei2puqnoj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973133608527:android:67c9ed7df2cf75acd95c3a",
+        "android_client_info": {
+          "package_name": "com.perbaqin.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973133608527-981vbv34n5ec8mjg3n2nnekei2puqnoj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlRoy7wNJ42yZwmbeefTxrAAl5PZdghic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973133608527-981vbv34n5ec8mjg3n2nnekei2puqnoj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
